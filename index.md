@@ -1,6 +1,9 @@
 # Acknowledgements
 
-The Randomizer / Rabi-Ribi Map Editor was not the work of one person. It was made through the combined effort of many people from the Rabi-Ribi Speedrunning Community.
+The Randomizer / Rabi-Ribi Map Editor was not the work of one person. It was made through the combined effort of many people from the [Rabi-Ribi Speedrunning Community](http://www.speedrun.com/rabiribi).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/dDfpNAr"><img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" height="20">Rabi-Ribi Speedrunning Discord</a>
+
 
 The members of the speedrunning community have always been continuously working on experimenting with the game, finding out how the game internally, and figuring out jumps, zips and glitches. A lot of these developments are built upon this research. None of this would have happened without this large pool of existing knowledge.
 
