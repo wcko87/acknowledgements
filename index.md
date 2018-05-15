@@ -19,10 +19,11 @@ The following sections lists specific names of some of the community's members. 
 - [TheOnlyOne](https://www.twitch.tv/theonly0/): everything (i.e. too many things to list), and for all the time spent finding new and insane glitches and tricks in Rabi-Ribi
 - [copyliu](https://github.com/copyliu): for initial insights into how .map files work
 - [Hakua](http://azurehakua.moe): for coming up with the initial constraints list along with [TheOnlyOne](https://www.twitch.tv/theonly0/)
+- acedaemon: for writing the constraints for the new randomizer, halloween constraints, and a lot of other help with developing the randomizer.
 - [Mikan](https://www.twitch.tv/mikansbox): extensive testing of the randomizer itself
 - [Cosmoing](https://www.twitch.tv/cosmoing): randomizer UI
 
-And a bunch of people who helped in the constraints discussion and breaking the game: [Hakua](http://azurehakua.moe), [TheOnlyOne](https://www.twitch.tv/theonly0/), [Mikan](https://www.twitch.tv/mikansbox), Acedaemon, [Cosmoing](https://www.twitch.tv/cosmoing), [Sairaan](https://www.twitch.tv/sairaan), INDEXFAN, asiaclonk etc etc
+And a bunch of people who helped in the constraints discussion and breaking the game: [Hakua](http://azurehakua.moe), [TheOnlyOne](https://www.twitch.tv/theonly0/), [Mikan](https://www.twitch.tv/mikansbox), [Cosmoing](https://www.twitch.tv/cosmoing), [Sairaan](https://www.twitch.tv/sairaan), INDEXFAN, asiaclonk, [nichipe](https://twitter.com/MTBNN_UPRPRC), [craze819](https://www.twitch.tv/craze819), etc etc
 
 ## [Map Editor](https://wcko87.github.io/rabiribi-map-editing/)
 - [TheOnlyOne](https://www.twitch.tv/theonly0/): everything (i.e. too many things to list), and for all the time spent finding new and insane glitches and tricks in Rabi-Ribi
